@@ -1,7 +1,7 @@
 # Awesome Requirement Review Agent
 
 [![CI](https://github.com/Maropion03/awesome-requirement-review-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Maropion03/awesome-requirement-review-agent/actions/workflows/ci.yml)
-[![Live on Vercel](https://img.shields.io/badge/live-Vercel-000000?logo=vercel)](https://awesome-requirement-review-agent.vercel.app)
+[![Live on Vercel](https://img.shields.io/badge/live-Vercel-000000?logo=vercel)](https://awesome-requirement-review-agent-five.vercel.app)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI 0.140.7](https://img.shields.io/badge/FastAPI-0.140.7-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Vue 3](https://img.shields.io/badge/Vue-3-42B883?logo=vuedotjs&logoColor=white)](https://vuejs.org/)
@@ -12,7 +12,7 @@ An open-source PRD review workbench for product teams. Bring your own model API 
 
 > The app is stateless. It has no built-in MiniMax key, no account system, and no server-side document or report storage.
 
-**[Open the live workbench](https://awesome-requirement-review-agent.vercel.app)** · [中文说明](./README_CN.md)
+**[Open the live workbench](https://awesome-requirement-review-agent-five.vercel.app)** · [中文说明](./README_CN.md)
 
 ## Highlights
 
